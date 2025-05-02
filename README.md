@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zunair Khan</h1>
+
+<p>
 <h3 align="center">Welcome to my GitHub profile!<br><br>I'm a passionate developer and tech enthusiast, eager to learn and build innovative solutions.</h3>
 
 <p align="left">
@@ -7,9 +9,12 @@
   </a>
 </p>
 
+
 <div style="display: flex; align-items: center; justify-content: space-between;gap:20px;">
-  <img align="left" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5ncHNnaTJhMmRjODJmZjUzcGp6cDJ3ZGkxcnlxcWtxMDByeHEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y0zTJ7VrKo9P2/giphy.gif" style="border-radius: 12px; margin: 20px;" />
+  <img align="left" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5ncHNnaTJhMmRjODJmZjUzcGp6cDJ3ZGkxcnlxcWtxMDByeHEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y0zTJ7VrKo9P2/giphy.gif" style="border-radius: 12px; margin-right: 20px;" />
   <div>
+</p>
+
 
     <p>  🛠  Tech Stack  </p>
     
