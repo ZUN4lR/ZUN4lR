@@ -7,8 +7,8 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: center; justify-content: space-between;margin-left: 20px;">
-  <img align="left" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5ncHNnaTJhMmRjODJmZjUzcGp6cDJ3ZGkxcnlxcWtxMDByeHEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y0zTJ7VrKo9P2/giphy.gif" style="border-radius: 12px; margin-right: 20px;" />
+<div style="display: flex; align-items: center; justify-content: space-between;gap:20px;">
+  <img align="left" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5ncHNnaTJhMmRjODJmZjUzcGp6cDJ3ZGkxcnlxcWtxMDByeHEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y0zTJ7VrKo9P2/giphy.gif" style="border-radius: 12px; margin-right: 20px;" />
   <div>
 
     <p>  🛠  Tech Stack  </p>
