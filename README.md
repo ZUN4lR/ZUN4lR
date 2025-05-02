@@ -5,10 +5,11 @@ I'm a passionate developer and tech enthusiast, eager to learn and build innovat
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Mobile+App+Developer;-%3E+Web+Developer;-%3E+Backend+Engineer;-%3EEngineer;-%3E+Database+Designer;-%3E+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=808080&lines=-%3E+Mobile+App+Developer;-%3E+Web+Developer;-%3E+Backend+Engineer;-%3EEngineer;-%3E+Database+Designer;-%3E+Full-Stack+Developer" alt="Typing SVG" />
   </a>
+</p>
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5ncHNnaTJhMmRjODJmZjUzcGp6cDJ3ZGkxcnlxcWtxMDByeHEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y0zTJ7VrKo9P2/giphy.gif" style="border-radius: 12px;" />
+<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5ncHNnaTJhMmRjODJmZjUzcGp6cDJ3ZGkxcnlxcWtxMDByeHEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y0zTJ7VrKo9P2/giphy.gif" style="border-radius: 12px;" />
 
 
 </p>
@@ -21,6 +22,8 @@ I'm a passionate developer and tech enthusiast, eager to learn and build innovat
 
 # GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=ZUN4lR&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+# 📊 GitHub Stats
 
 <p align="center">
     <img
@@ -40,6 +43,7 @@ I'm a passionate developer and tech enthusiast, eager to learn and build innovat
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zun4lr&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
