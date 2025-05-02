@@ -1,3 +1,5 @@
+![Header](./header-img.png)
+
 <h1 align="center">Hi 👋, I'm Muhammad Zunair Khan</h1>
 <h3 align="center">Welcome to my GitHub profile!<br><br>I'm a passionate developer and tech enthusiast, eager to learn and build innovative solutions.</h3>
 
