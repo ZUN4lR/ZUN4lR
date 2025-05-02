@@ -10,9 +10,8 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img align="left" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5ncHNnaTJhMmRjODJmZjUzcGp6cDJ3ZGkxcnlxcWtxMDByeHEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y0zTJ7VrKo9P2/giphy.gif" style="border-radius: 12px; margin-right: 20px;" />
   <div>
-    <h2 >🛠 Tech Stack</h2>
 
-    🛠 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <p>  🛠  Tech Stack  </p>
     
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
