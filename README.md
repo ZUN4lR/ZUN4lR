@@ -73,7 +73,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zun4lr&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
 </p>
 
-## ✍️ Dev Quote
+## ✍️ Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
